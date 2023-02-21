@@ -1,6 +1,7 @@
 {
   "tickets": [
     {
+      "id": 3,
       "avatar": "../assets/m 5.png",
       "ticketDetails": "Contact Email not Linked",
       "ticketDetailsUpdated": "Updated 1 day ago",
@@ -11,6 +12,7 @@
       "priority": "high"
     },
     {
+      "id": 4,
       "avatar": "../assets/w 5.png",
       "ticketDetails": "Adding Images to Featured Posts",
       "ticketDetailsUpdated": "Updated 1 day ago",
@@ -21,6 +23,7 @@
       "priority": "low"
     },
     {
+      "id": 5,
       "avatar": "../assets/w 3.png",
       "ticketDetails": "When will I be charged this month?",
       "ticketDetailsUpdated": "Updated 1 day ago",
@@ -31,6 +34,7 @@
       "priority": "high"
     },
     {
+      "id": 6,
       "avatar": "../assets/m 7.png",
       "ticketDetails": "Payment not going through",
       "ticketDetailsUpdated": "Updated 2 days ago",
@@ -41,6 +45,7 @@
       "priority": "normal"
     },
     {
+      "id": 7,
       "avatar": "../assets/m 6.png",
       "ticketDetails": "Unable to add replies",
       "ticketDetailsUpdated": "Updated 2 days ago",
@@ -51,6 +56,7 @@
       "priority": "high"
     },
     {
+      "id": 8,
       "avatar": "../assets/m 4.png",
       "ticketDetails": "Downtime since last week",
       "ticketDetailsUpdated": "Updated 3 days ago",
@@ -61,6 +67,7 @@
       "priority": "normal"
     },
     {
+      "id": 9,
       "avatar": "../assets/w 6.png",
       "ticketDetails": "Referral Bonus",
       "ticketDetailsUpdated": "Updated 4 days ago",
@@ -71,6 +78,7 @@
       "priority": "low"
     },
     {
+      "id": 10,
       "avatar": "../assets/w 7.png",
       "ticketDetails": "How do I change my password?",
       "ticketDetailsUpdated": "Updated 6 days ago",
